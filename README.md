@@ -28,7 +28,7 @@ To run this application, you need a web browser that supports HTML5, CSS3, and J
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/tictactoe.git
+    git clone https: https://github.com/Ruthik005/PRODIGY_WD_03.git
     ```
 2. Navigate to the project directory:
    press ctlr+f5
